@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <record model="test_model" id="openacademy.nombres">
+            <field name="name">Fernando</field> <!-- El nombre debe ser el mismo que la variable del modelo -->
+            <field name="description">Alonso</field> <!--El nombre debe ser el mismo que la variable del modelo-->
+            <field name="age">33</field> <!--El nombre debe ser el mismo que la variable del modelo-->
+        </record>
+    </data>
+</odoo>
