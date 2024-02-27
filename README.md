@@ -227,7 +227,7 @@ seleccionaremos **Aplicaciones** y después seleccionamos **OpenAcademy**, nos d
 Ahora añadiremos uno nuevo registro, clicando en el boton de `Nuevo`.
 
 
-![img10](./img/nuevoregistro.png)
+![img10](./img/Nuevoregistro.png)
 
 Así se verá nuestro nuevo registro en Odoo y en nuestra base de datos de PyCharm:
 
