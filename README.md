@@ -57,7 +57,7 @@ Para comprobar que los servicios se han levantado correctamente, debemos ir al b
 
 Y así es como lo dejamos configurado y le damos a `Create Database`:
 
-![img3](./img/odooconf.png)
+![img3](./img/odooConf.png)
 
 La siguiente pantalla que nos aparecerá una vez tengamos todo bien configurado e iniciemos sesión será:
 
